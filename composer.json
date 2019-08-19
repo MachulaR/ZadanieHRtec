@@ -1,0 +1,20 @@
+{
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "machular/rekrutacjahrtec",
+        "version": "1.0",
+        "source": {
+          "url": "https://github.com/MachulaR/RekrutacjaHRtec",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  ],
+  "require": {
+    "machular/zadaniehrtec": "1.0",
+    "machular/rekrutacjahrtec": "1.0"
+  }
+}

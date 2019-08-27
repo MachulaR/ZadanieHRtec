@@ -16,12 +16,27 @@ Use command line
 Add to your composer.json file.
 ``` bash
 {
-    "require": {
-        "machular/zadaniehrtec":"1.0"
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "machular/zadaniehrtec",
+        "version": "1.0",
+        "source": {
+          "url": "https://github.com/MachulaR/ZadanieHRtec",
+          "type": "git",
+          "reference": "master"
+        }
+      }
     }
+  ],
+  "require": {
+    "machular/zadaniehrtec": "1.0"
+  }
 }
+
 ```
-or via command line
+then via command line
 ``` bash
 $ composer require "machular/zadaniehrtec":"1.0"
 ```

@@ -14,7 +14,6 @@
     }
   ],
   "require": {
-    "machular/zadaniehrtec": "1.0",
-    "machular/rekrutacjahrtec": "1.0"
+    "machular/zadaniehrtec": "1.0"
   }
 }

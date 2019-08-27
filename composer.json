@@ -3,7 +3,7 @@
     {
       "type": "package",
       "package": {
-        "name": "machular/rekrutacjahrtec",
+        "name": "machular/zadaniehrtec",
         "version": "1.0",
         "source": {
           "url": "https://github.com/MachulaR/RekrutacjaHRtec",

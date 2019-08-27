@@ -13,6 +13,15 @@ Installation
 
 Use command line
 
+Add to your composer.json file.
+``` bash
+{
+    "require": {
+        "machular/zadaniehrtec":"1.0"
+    }
+}
+```
+or via command line
 ``` bash
 $ composer require "machular/zadaniehrtec":"1.0"
 ```

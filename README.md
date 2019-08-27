@@ -14,7 +14,7 @@ Installation
 Use command line
 
 ``` bash
-$ composer require "machular/rekrutacjahrtec": "1.0"
+$ composer require "machular/zadaniehrtec":"1.0"
 ```
 Or just download zip file.
 
